@@ -11,5 +11,3 @@ const this = {
   challenge: 'Strive to be a better self'
 };
 ```
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abcd0f&left_color=green&right_color=red)
